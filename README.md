@@ -1,2 +1,2 @@
 # Video-Streaming-Platform
-A Video Stream Platform
+A Video Streaming Platform
